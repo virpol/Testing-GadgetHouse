@@ -9,7 +9,5 @@ The platform sells **mobile phones, laptops, headphones, and other electronics**
 - **3_Notes/** - common QA notes, test data, and useful links
 
 ## Test Environment
-- **Frontend**: React + responsive design
-- **Backend**: Spring Boot (Docker)
-- **Database**: PostgreSQL
+- **Backend**: Swagger`https://onlinestore-fdlp.onrender.com/swagger-ui/index.html`
 - **URL**: `https://gadget-house-tc.netlify.app/`
