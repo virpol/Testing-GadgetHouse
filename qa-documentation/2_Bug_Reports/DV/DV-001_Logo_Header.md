@@ -133,7 +133,7 @@ No number displayed when basket is empty.
 
 ---
 
-##  7. Catalog Button — Color & Alignment
+##  7. Catalog Button - Color & Alignment
 
 **Description:**  
 The catalog button background color and dropdown width differ from the Figma design.
